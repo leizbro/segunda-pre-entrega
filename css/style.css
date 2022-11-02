@@ -1,0 +1,31 @@
+@media (min-width:350px)
+{}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+    background-color: #bfe5ef;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    color: #EF476F;
+    justify-content: center;
+}
+
+.parrafoNovedades{
+    text-align: center;
+}
+
+h2{
+    color: #118AB2;
+}
